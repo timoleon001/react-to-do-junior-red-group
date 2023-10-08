@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Todo приложение на React для самых маленьких // Твое первое приложение [React, JavaScript, Tailwind]
+
+# https://www.youtube.com/watch?v=sAa71agGwcg
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
